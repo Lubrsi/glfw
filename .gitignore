@@ -85,3 +85,10 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+[Bb]in/
+[Bb]uild/
+*.sln
+*.vcxproj
+*.filters
+*.user
+Makefile
